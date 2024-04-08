@@ -18,7 +18,7 @@ This repository contains a basic 2D physics engine implemented in C++. The engin
 
 ### Building
 
-1. Clone the repository: git clone https://github.com/your-username/2d-physics-engine.git
+1. Clone the repository: git clone https://github.com/dsoon0400/2D-Physics-Engine-Sim.git
 
 2. Navigate to the project directory: cd 2d-physics-engine
 
