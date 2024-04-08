@@ -5,7 +5,7 @@
 //Constants
 const double G = 6.67430e-11;  //Grav constant
 
-//Vector class for representing positions and velocities
+//A Vector class for representing positions and velocities
 class Vector2D {
 public:
     double x, y;
